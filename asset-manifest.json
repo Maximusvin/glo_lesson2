@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-01-components/static/css/main.41ffe9bb.chunk.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.cf708b1d.chunk.js",
+    "main.js.map": "/goit-react-hw-01-components/static/js/main.cf708b1d.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.228e538e.js",
+    "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.228e538e.js.map",
+    "static/js/2.c863fea4.chunk.js": "/goit-react-hw-01-components/static/js/2.c863fea4.chunk.js",
+    "static/js/2.c863fea4.chunk.js.map": "/goit-react-hw-01-components/static/js/2.c863fea4.chunk.js.map",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "static/css/main.41ffe9bb.chunk.css.map": "/goit-react-hw-01-components/static/css/main.41ffe9bb.chunk.css.map",
+    "static/js/2.c863fea4.chunk.js.LICENSE.txt": "/goit-react-hw-01-components/static/js/2.c863fea4.chunk.js.LICENSE.txt",
+    "static/media/1.bc9b8764.svg": "/goit-react-hw-01-components/static/media/1.bc9b8764.svg",
+    "static/media/2.c8bae1a7.svg": "/goit-react-hw-01-components/static/media/2.c8bae1a7.svg",
+    "static/media/3.9aaaafed.svg": "/goit-react-hw-01-components/static/media/3.9aaaafed.svg",
+    "static/media/4.4fadcd8e.svg": "/goit-react-hw-01-components/static/media/4.4fadcd8e.svg",
+    "static/media/index.css": "/goit-react-hw-01-components/static/media/phone.b232b8cd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.228e538e.js",
+    "static/js/2.c863fea4.chunk.js",
+    "static/css/main.41ffe9bb.chunk.css",
+    "static/js/main.cf708b1d.chunk.js"
+  ]
+}
