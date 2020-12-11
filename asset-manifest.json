@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-components/static/css/main.41ffe9bb.chunk.css",
-    "main.js": "/goit-react-hw-01-components/static/js/main.cf708b1d.chunk.js",
-    "main.js.map": "/goit-react-hw-01-components/static/js/main.cf708b1d.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-01-components/static/js/runtime-main.228e538e.js",
-    "runtime-main.js.map": "/goit-react-hw-01-components/static/js/runtime-main.228e538e.js.map",
-    "static/js/2.c863fea4.chunk.js": "/goit-react-hw-01-components/static/js/2.c863fea4.chunk.js",
-    "static/js/2.c863fea4.chunk.js.map": "/goit-react-hw-01-components/static/js/2.c863fea4.chunk.js.map",
-    "index.html": "/goit-react-hw-01-components/index.html",
-    "static/css/main.41ffe9bb.chunk.css.map": "/goit-react-hw-01-components/static/css/main.41ffe9bb.chunk.css.map",
-    "static/js/2.c863fea4.chunk.js.LICENSE.txt": "/goit-react-hw-01-components/static/js/2.c863fea4.chunk.js.LICENSE.txt",
-    "static/media/1.bc9b8764.svg": "/goit-react-hw-01-components/static/media/1.bc9b8764.svg",
-    "static/media/2.c8bae1a7.svg": "/goit-react-hw-01-components/static/media/2.c8bae1a7.svg",
-    "static/media/3.9aaaafed.svg": "/goit-react-hw-01-components/static/media/3.9aaaafed.svg",
-    "static/media/4.4fadcd8e.svg": "/goit-react-hw-01-components/static/media/4.4fadcd8e.svg",
-    "static/media/index.css": "/goit-react-hw-01-components/static/media/phone.b232b8cd.svg"
+    "main.css": "/glo_lesson2/static/css/main.2baaa856.chunk.css",
+    "main.js": "/glo_lesson2/static/js/main.cf708b1d.chunk.js",
+    "main.js.map": "/glo_lesson2/static/js/main.cf708b1d.chunk.js.map",
+    "runtime-main.js": "/glo_lesson2/static/js/runtime-main.26655385.js",
+    "runtime-main.js.map": "/glo_lesson2/static/js/runtime-main.26655385.js.map",
+    "static/js/2.c863fea4.chunk.js": "/glo_lesson2/static/js/2.c863fea4.chunk.js",
+    "static/js/2.c863fea4.chunk.js.map": "/glo_lesson2/static/js/2.c863fea4.chunk.js.map",
+    "index.html": "/glo_lesson2/index.html",
+    "static/css/main.2baaa856.chunk.css.map": "/glo_lesson2/static/css/main.2baaa856.chunk.css.map",
+    "static/js/2.c863fea4.chunk.js.LICENSE.txt": "/glo_lesson2/static/js/2.c863fea4.chunk.js.LICENSE.txt",
+    "static/media/1.bc9b8764.svg": "/glo_lesson2/static/media/1.bc9b8764.svg",
+    "static/media/2.c8bae1a7.svg": "/glo_lesson2/static/media/2.c8bae1a7.svg",
+    "static/media/3.9aaaafed.svg": "/glo_lesson2/static/media/3.9aaaafed.svg",
+    "static/media/4.4fadcd8e.svg": "/glo_lesson2/static/media/4.4fadcd8e.svg",
+    "static/media/index.css": "/glo_lesson2/static/media/phone.b232b8cd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.228e538e.js",
+    "static/js/runtime-main.26655385.js",
     "static/js/2.c863fea4.chunk.js",
-    "static/css/main.41ffe9bb.chunk.css",
+    "static/css/main.2baaa856.chunk.css",
     "static/js/main.cf708b1d.chunk.js"
   ]
 }
