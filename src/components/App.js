@@ -1,13 +1,25 @@
-import Layout from './Layout/Layout';
+import Section from './Section/Section';
+import Header from './Header/Header';
+import Main from './Main/Main';
+import Features from './Features/Features';
+import Contact from './Contact/Contact';
+import Footer from './Footer/Footer';
 
 import './App.css';
 
 function App() {
   return (
-    <Layout>
-      <h1>Home Work #2.2</h1>
-      <div>Hello</div>
-    </Layout>
+    <>
+      <Header />
+      <Main />
+      <Section className="features">
+        <Features />
+      </Section>
+      <Section className="contact">
+        <Contact />
+      </Section>
+      <Footer />
+    </>
   );
 }
 
